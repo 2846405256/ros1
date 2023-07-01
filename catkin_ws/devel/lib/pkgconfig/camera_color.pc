@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/catkin_ws/devel
+
+Name: camera_color
+Description: Description of camera_color
+Version: 0.0.0
+Cflags: -I/home/vboxuser/catkin_ws/src/camera_color/include
+Libs: -L${prefix}/lib 
+Requires: cv_bridge roscpp rospy
